@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "styled-components": "^6.0.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
